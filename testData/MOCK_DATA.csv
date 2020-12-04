@@ -1,0 +1,1001 @@
+Date,PlannerName,TaskName,Status
+9/24/2020,Planner1,Kurdish,In Progress
+6/5/2020,Planner3,Gujarati,Done
+11/15/2020,Planner2,Tok Pisin,New
+5/20/2020,Planner3,Kurdish,Done
+3/21/2020,Planner2,West Frisian,New
+7/13/2020,Planner1,Guaraní,Done
+9/21/2020,Planner3,Swedish,Done
+4/2/2020,Planner4,Kashmiri,New
+11/26/2020,Planner1,Haitian Creole,In Progress
+5/13/2020,Planner1,Polish,New
+2/28/2020,Planner1,Chinese,New
+1/19/2020,Planner2,West Frisian,Done
+4/25/2020,Planner3,Zulu,Done
+11/29/2020,Planner2,Marathi,Done
+12/25/2019,Planner1,Assamese,New
+6/24/2020,Planner3,Norwegian,In Progress
+11/17/2020,Planner3,Tswana,New
+9/23/2020,Planner3,Northern Sotho,Done
+9/21/2020,Planner1,Persian,New
+1/16/2020,Planner2,Kurdish,Done
+11/1/2020,Planner3,Lao,New
+9/3/2020,Planner1,Bengali,In Progress
+11/22/2020,Planner4,Azeri,New
+12/27/2019,Planner1,Estonian,In Progress
+12/17/2019,Planner1,Malagasy,Done
+7/15/2020,Planner2,Norwegian,In Progress
+10/27/2020,Planner4,Burmese,In Progress
+3/5/2020,Planner2,Tok Pisin,Done
+5/29/2020,Planner3,Somali,In Progress
+11/18/2020,Planner1,Tswana,New
+8/22/2020,Planner3,Swati,Done
+10/31/2020,Planner2,Tajik,In Progress
+5/24/2020,Planner3,Hungarian,In Progress
+4/21/2020,Planner3,Swati,In Progress
+1/5/2020,Planner1,French,New
+11/27/2020,Planner1,Croatian,Done
+1/11/2020,Planner3,Gujarati,Done
+10/5/2020,Planner4,Hindi,Done
+6/8/2020,Planner4,Aymara,In Progress
+1/30/2020,Planner3,English,In Progress
+3/6/2020,Planner2,Finnish,Done
+2/14/2020,Planner3,Mongolian,Done
+6/10/2020,Planner4,Greek,New
+1/19/2020,Planner3,Aymara,In Progress
+6/20/2020,Planner2,Dzongkha,In Progress
+8/23/2020,Planner4,Tetum,New
+8/11/2020,Planner2,Swati,Done
+6/21/2020,Planner2,Aymara,In Progress
+8/25/2020,Planner2,West Frisian,In Progress
+12/30/2019,Planner4,Chinese,Done
+8/19/2020,Planner2,Lithuanian,Done
+3/11/2020,Planner3,Kashmiri,In Progress
+4/23/2020,Planner3,Czech,In Progress
+6/17/2020,Planner2,English,Done
+10/1/2020,Planner4,Kashmiri,New
+5/30/2020,Planner1,Tajik,In Progress
+5/16/2020,Planner4,Korean,In Progress
+3/23/2020,Planner4,Aymara,New
+7/31/2020,Planner4,Chinese,Done
+1/24/2020,Planner4,Armenian,In Progress
+2/17/2020,Planner1,Bengali,New
+10/11/2020,Planner1,Bislama,New
+8/23/2020,Planner3,Assamese,Done
+9/10/2020,Planner4,Montenegrin,New
+5/11/2020,Planner4,Somali,In Progress
+8/11/2020,Planner3,Burmese,In Progress
+9/26/2020,Planner1,Tsonga,In Progress
+12/11/2019,Planner3,Romanian,Done
+4/26/2020,Planner1,Latvian,Done
+6/10/2020,Planner3,Irish Gaelic,New
+11/10/2020,Planner3,Assamese,Done
+12/16/2019,Planner3,Kurdish,In Progress
+6/3/2020,Planner2,Dzongkha,Done
+3/22/2020,Planner1,Guaraní,Done
+5/26/2020,Planner4,French,Done
+3/14/2020,Planner1,Gujarati,In Progress
+7/31/2020,Planner3,Telugu,New
+5/3/2020,Planner1,Dutch,In Progress
+2/2/2020,Planner1,Tok Pisin,New
+4/28/2020,Planner1,Hindi,New
+4/16/2020,Planner1,Malayalam,In Progress
+7/12/2020,Planner1,Lithuanian,New
+3/7/2020,Planner3,Gagauz,New
+7/9/2020,Planner3,Tswana,New
+7/6/2020,Planner1,English,In Progress
+8/11/2020,Planner3,Yiddish,In Progress
+8/22/2020,Planner2,Macedonian,Done
+2/13/2020,Planner3,Korean,In Progress
+1/16/2020,Planner4,Catalan,Done
+8/6/2020,Planner2,Montenegrin,In Progress
+8/10/2020,Planner3,Hiri Motu,In Progress
+10/20/2020,Planner3,Lithuanian,New
+2/29/2020,Planner2,Guaraní,Done
+5/19/2020,Planner3,Maltese,New
+12/24/2019,Planner3,Telugu,In Progress
+8/24/2020,Planner4,Tsonga,In Progress
+12/7/2019,Planner4,Lithuanian,New
+1/23/2020,Planner1,English,In Progress
+4/21/2020,Planner4,Kurdish,New
+4/26/2020,Planner3,Northern Sotho,Done
+10/6/2020,Planner2,Dari,In Progress
+8/5/2020,Planner2,Italian,Done
+2/6/2020,Planner4,English,New
+10/17/2020,Planner3,Pashto,Done
+1/1/2020,Planner3,Kazakh,New
+12/16/2019,Planner2,Czech,Done
+11/13/2020,Planner2,Catalan,In Progress
+12/3/2019,Planner2,Gagauz,In Progress
+9/17/2020,Planner4,Swedish,In Progress
+4/25/2020,Planner2,Dutch,New
+3/26/2020,Planner2,Greek,Done
+11/24/2020,Planner1,Malayalam,Done
+12/27/2019,Planner4,Hebrew,In Progress
+7/14/2020,Planner1,Lao,New
+6/9/2020,Planner2,Tsonga,New
+1/17/2020,Planner2,Indonesian,New
+2/29/2020,Planner2,Bulgarian,Done
+4/18/2020,Planner3,Hebrew,New
+10/27/2020,Planner3,Burmese,In Progress
+7/25/2020,Planner1,Danish,New
+9/28/2020,Planner4,German,In Progress
+6/19/2020,Planner3,Aymara,New
+7/26/2020,Planner3,German,Done
+5/12/2020,Planner4,Portuguese,In Progress
+1/22/2020,Planner4,Oriya,New
+12/25/2019,Planner3,French,Done
+2/2/2020,Planner1,Macedonian,Done
+6/26/2020,Planner1,Albanian,New
+5/6/2020,Planner1,Latvian,Done
+10/26/2020,Planner4,Kyrgyz,Done
+1/11/2020,Planner1,Japanese,In Progress
+11/8/2020,Planner4,Luxembourgish,New
+11/26/2020,Planner2,Catalan,In Progress
+10/11/2020,Planner2,Dhivehi,New
+4/16/2020,Planner3,Swahili,Done
+2/4/2020,Planner4,Sotho,New
+11/27/2020,Planner3,Quechua,In Progress
+12/30/2019,Planner3,Kurdish,New
+11/5/2020,Planner3,Ndebele,Done
+8/26/2020,Planner2,German,New
+5/1/2020,Planner4,Persian,Done
+4/8/2020,Planner2,Belarusian,Done
+5/3/2020,Planner3,Japanese,New
+10/21/2020,Planner4,Latvian,New
+2/12/2020,Planner1,Belarusian,Done
+12/17/2019,Planner2,Aymara,In Progress
+6/11/2020,Planner3,Thai,New
+4/6/2020,Planner2,Burmese,Done
+3/16/2020,Planner2,Tajik,New
+3/14/2020,Planner1,Nepali,New
+5/4/2020,Planner2,Polish,New
+7/28/2020,Planner2,Burmese,Done
+7/30/2020,Planner3,Malay,New
+10/11/2020,Planner1,Haitian Creole,In Progress
+1/17/2020,Planner1,Marathi,New
+12/29/2019,Planner4,Gujarati,New
+8/4/2020,Planner3,Finnish,New
+4/9/2020,Planner3,Māori,In Progress
+8/25/2020,Planner4,Tsonga,Done
+2/25/2020,Planner1,Tswana,New
+2/9/2020,Planner3,Hindi,New
+3/30/2020,Planner2,Spanish,New
+12/19/2019,Planner1,Moldovan,New
+1/19/2020,Planner2,Papiamento,New
+1/15/2020,Planner3,Tsonga,New
+9/1/2020,Planner4,Icelandic,In Progress
+5/31/2020,Planner2,Malayalam,Done
+7/9/2020,Planner4,Tsonga,New
+1/6/2020,Planner4,Swati,New
+12/24/2019,Planner3,Pashto,New
+7/9/2020,Planner1,Kashmiri,Done
+10/4/2020,Planner3,Danish,Done
+3/29/2020,Planner3,Malayalam,In Progress
+6/27/2020,Planner4,Bengali,New
+4/19/2020,Planner2,Polish,New
+4/17/2020,Planner2,Icelandic,New
+3/20/2020,Planner3,Indonesian,Done
+12/14/2019,Planner4,Dari,Done
+2/5/2020,Planner2,English,Done
+3/24/2020,Planner3,Finnish,Done
+7/15/2020,Planner4,Khmer,In Progress
+10/21/2020,Planner2,Hindi,New
+7/18/2020,Planner3,Swati,New
+4/17/2020,Planner2,Moldovan,Done
+8/1/2020,Planner4,Malayalam,Done
+12/1/2020,Planner3,Gujarati,New
+6/6/2020,Planner1,Portuguese,Done
+7/2/2020,Planner3,Fijian,In Progress
+5/13/2020,Planner3,Hungarian,Done
+7/4/2020,Planner4,Hiri Motu,In Progress
+6/2/2020,Planner1,Bislama,Done
+12/4/2019,Planner2,Bislama,Done
+12/25/2019,Planner1,Guaraní,New
+11/11/2020,Planner1,Icelandic,New
+1/6/2020,Planner2,Chinese,Done
+12/19/2019,Planner4,Khmer,New
+7/15/2020,Planner4,Punjabi,Done
+9/22/2020,Planner3,Afrikaans,Done
+6/5/2020,Planner4,Croatian,Done
+7/20/2020,Planner2,Hindi,In Progress
+8/8/2020,Planner3,Burmese,New
+7/7/2020,Planner3,Czech,Done
+3/27/2020,Planner4,Somali,Done
+8/24/2020,Planner4,Tajik,New
+10/3/2020,Planner3,Haitian Creole,Done
+4/13/2020,Planner3,Gujarati,New
+11/29/2020,Planner4,Danish,In Progress
+8/27/2020,Planner2,Dzongkha,In Progress
+12/28/2019,Planner4,Greek,In Progress
+6/9/2020,Planner2,West Frisian,New
+1/1/2020,Planner2,Georgian,New
+5/13/2020,Planner1,Armenian,Done
+8/18/2020,Planner2,Khmer,In Progress
+10/3/2020,Planner3,Lithuanian,New
+2/12/2020,Planner3,Albanian,In Progress
+1/14/2020,Planner1,Czech,In Progress
+6/22/2020,Planner1,Papiamento,Done
+12/17/2019,Planner4,Romanian,New
+4/20/2020,Planner4,Tok Pisin,Done
+10/25/2020,Planner1,Lao,New
+3/12/2020,Planner2,Gujarati,New
+6/28/2020,Planner4,Northern Sotho,New
+1/7/2020,Planner1,Catalan,In Progress
+7/8/2020,Planner4,Lithuanian,New
+9/22/2020,Planner3,Filipino,Done
+5/14/2020,Planner3,Oriya,Done
+3/16/2020,Planner3,Korean,Done
+9/3/2020,Planner2,Filipino,Done
+9/29/2020,Planner3,Kashmiri,Done
+6/14/2020,Planner4,Khmer,Done
+8/21/2020,Planner4,Swahili,In Progress
+11/28/2020,Planner4,Kashmiri,New
+10/4/2020,Planner4,Guaraní,In Progress
+10/20/2020,Planner1,New Zealand Sign Language,New
+1/24/2020,Planner3,Filipino,In Progress
+6/8/2020,Planner4,Bosnian,Done
+12/4/2019,Planner3,Tamil,New
+5/23/2020,Planner1,Romanian,New
+6/14/2020,Planner4,Finnish,In Progress
+9/8/2020,Planner3,Hungarian,New
+10/1/2020,Planner3,Albanian,New
+7/23/2020,Planner3,Macedonian,In Progress
+7/11/2020,Planner4,Filipino,In Progress
+11/7/2020,Planner1,Irish Gaelic,In Progress
+4/8/2020,Planner1,Punjabi,Done
+9/3/2020,Planner3,Czech,New
+5/7/2020,Planner3,Chinese,New
+12/24/2019,Planner1,Tsonga,In Progress
+6/24/2020,Planner1,Spanish,In Progress
+11/10/2020,Planner4,West Frisian,In Progress
+10/5/2020,Planner3,Māori,In Progress
+6/16/2020,Planner2,Kurdish,New
+11/20/2020,Planner1,Icelandic,Done
+3/29/2020,Planner1,Croatian,New
+5/17/2020,Planner2,Luxembourgish,New
+5/29/2020,Planner1,Tamil,New
+6/21/2020,Planner4,Pashto,In Progress
+8/30/2020,Planner1,Arabic,New
+7/15/2020,Planner4,Kyrgyz,Done
+4/10/2020,Planner3,Burmese,In Progress
+6/1/2020,Planner4,Tamil,Done
+9/4/2020,Planner2,Irish Gaelic,In Progress
+5/31/2020,Planner3,Assamese,Done
+6/4/2020,Planner1,Portuguese,Done
+4/18/2020,Planner2,French,Done
+11/10/2020,Planner4,Filipino,Done
+3/24/2020,Planner3,Guaraní,Done
+7/1/2020,Planner3,New Zealand Sign Language,Done
+11/12/2020,Planner3,Albanian,Done
+5/21/2020,Planner3,Tajik,In Progress
+7/30/2020,Planner2,Lao,New
+2/22/2020,Planner4,Sotho,New
+7/14/2020,Planner3,Malay,In Progress
+1/6/2020,Planner3,Azeri,Done
+7/6/2020,Planner4,New Zealand Sign Language,Done
+3/3/2020,Planner3,Māori,New
+7/25/2020,Planner4,Dhivehi,In Progress
+5/3/2020,Planner3,Tamil,Done
+2/27/2020,Planner3,Belarusian,Done
+4/27/2020,Planner2,Thai,New
+3/31/2020,Planner2,Fijian,Done
+8/14/2020,Planner2,Swedish,New
+7/23/2020,Planner3,Latvian,In Progress
+11/21/2020,Planner3,Haitian Creole,Done
+8/23/2020,Planner4,German,Done
+4/23/2020,Planner4,West Frisian,New
+6/11/2020,Planner3,Dari,In Progress
+3/3/2020,Planner3,Hebrew,New
+9/18/2020,Planner1,Tswana,In Progress
+3/4/2020,Planner3,Aymara,New
+6/6/2020,Planner3,Kurdish,In Progress
+7/26/2020,Planner4,Sotho,In Progress
+12/21/2019,Planner4,Portuguese,Done
+10/9/2020,Planner1,Guaraní,In Progress
+8/20/2020,Planner3,Macedonian,In Progress
+11/18/2020,Planner4,Moldovan,New
+12/19/2019,Planner3,Finnish,Done
+2/22/2020,Planner3,Croatian,Done
+3/15/2020,Planner1,Ndebele,In Progress
+7/16/2020,Planner4,Estonian,New
+2/27/2020,Planner2,Sotho,Done
+11/20/2020,Planner1,Polish,In Progress
+6/7/2020,Planner4,Gagauz,In Progress
+6/18/2020,Planner2,Māori,New
+2/1/2020,Planner2,Norwegian,Done
+7/21/2020,Planner3,Kannada,Done
+5/3/2020,Planner1,Afrikaans,New
+5/15/2020,Planner4,Mongolian,Done
+10/8/2020,Planner4,Irish Gaelic,Done
+10/9/2020,Planner2,Lithuanian,Done
+5/13/2020,Planner3,Persian,New
+9/11/2020,Planner2,Tsonga,New
+3/12/2020,Planner4,Tok Pisin,New
+11/4/2020,Planner2,Assamese,In Progress
+9/23/2020,Planner4,Gujarati,New
+1/8/2020,Planner3,Thai,In Progress
+10/11/2020,Planner1,Gagauz,Done
+8/11/2020,Planner3,Greek,Done
+8/15/2020,Planner2,Indonesian,Done
+4/25/2020,Planner3,Korean,New
+8/19/2020,Planner4,Haitian Creole,New
+6/24/2020,Planner3,Telugu,In Progress
+7/25/2020,Planner2,Estonian,New
+11/30/2020,Planner2,Kashmiri,New
+3/24/2020,Planner2,Tamil,New
+10/11/2020,Planner1,Czech,Done
+7/25/2020,Planner4,Tsonga,In Progress
+5/6/2020,Planner2,Oriya,In Progress
+3/25/2020,Planner1,Czech,Done
+4/14/2020,Planner4,Afrikaans,New
+9/27/2020,Planner2,Hebrew,In Progress
+9/16/2020,Planner1,Aymara,Done
+10/18/2020,Planner4,Bengali,Done
+2/8/2020,Planner1,Maltese,New
+9/13/2020,Planner1,Khmer,Done
+1/27/2020,Planner4,Haitian Creole,In Progress
+12/23/2019,Planner2,Croatian,New
+11/15/2020,Planner3,Lithuanian,New
+12/5/2019,Planner3,Yiddish,In Progress
+9/23/2020,Planner4,German,Done
+5/7/2020,Planner4,Kannada,Done
+7/18/2020,Planner4,Dutch,In Progress
+5/1/2020,Planner3,Quechua,New
+8/17/2020,Planner4,Aymara,New
+9/24/2020,Planner1,Tajik,In Progress
+11/15/2020,Planner1,Bislama,Done
+4/13/2020,Planner2,Italian,Done
+1/9/2020,Planner1,Irish Gaelic,In Progress
+2/16/2020,Planner2,Tsonga,In Progress
+2/12/2020,Planner4,Kashmiri,In Progress
+9/2/2020,Planner3,Pashto,Done
+11/10/2020,Planner3,Burmese,In Progress
+10/3/2020,Planner4,French,In Progress
+5/29/2020,Planner2,Albanian,In Progress
+4/29/2020,Planner4,Kurdish,New
+9/1/2020,Planner1,Finnish,Done
+1/27/2020,Planner1,Moldovan,In Progress
+6/7/2020,Planner4,Zulu,New
+12/27/2019,Planner4,Bengali,New
+1/30/2020,Planner2,Romanian,Done
+1/3/2020,Planner3,Icelandic,Done
+7/24/2020,Planner2,Malayalam,Done
+3/28/2020,Planner3,Armenian,Done
+3/10/2020,Planner2,Malayalam,In Progress
+4/27/2020,Planner2,Gujarati,New
+11/13/2020,Planner1,Icelandic,Done
+10/26/2020,Planner4,Kurdish,In Progress
+6/20/2020,Planner3,Northern Sotho,New
+6/3/2020,Planner2,Chinese,New
+11/3/2020,Planner3,Kurdish,Done
+6/15/2020,Planner4,Kashmiri,Done
+11/10/2020,Planner3,Kazakh,In Progress
+12/20/2019,Planner3,Estonian,New
+11/16/2020,Planner1,Filipino,New
+10/2/2020,Planner3,Hebrew,Done
+8/25/2020,Planner4,Papiamento,New
+10/8/2020,Planner2,New Zealand Sign Language,In Progress
+11/21/2020,Planner2,Finnish,In Progress
+3/10/2020,Planner4,Arabic,New
+4/28/2020,Planner4,Albanian,In Progress
+8/22/2020,Planner3,Malay,New
+6/17/2020,Planner3,Arabic,Done
+1/22/2020,Planner3,Armenian,In Progress
+4/15/2020,Planner4,Bengali,In Progress
+8/19/2020,Planner2,Bulgarian,Done
+10/16/2020,Planner4,Aymara,In Progress
+2/24/2020,Planner4,Persian,New
+8/12/2020,Planner4,Japanese,New
+9/16/2020,Planner1,Bislama,New
+10/26/2020,Planner3,Indonesian,Done
+2/19/2020,Planner2,Aymara,New
+7/9/2020,Planner2,Macedonian,New
+6/19/2020,Planner2,Bengali,New
+1/6/2020,Planner4,Telugu,Done
+10/8/2020,Planner1,Japanese,In Progress
+11/7/2020,Planner1,Azeri,In Progress
+1/16/2020,Planner1,Papiamento,New
+4/30/2020,Planner3,Nepali,New
+11/8/2020,Planner3,Macedonian,Done
+3/14/2020,Planner1,Yiddish,New
+1/13/2020,Planner1,Hiri Motu,New
+3/2/2020,Planner1,Marathi,In Progress
+6/8/2020,Planner4,Malay,In Progress
+10/30/2020,Planner2,Chinese,Done
+11/26/2020,Planner4,Gagauz,New
+5/16/2020,Planner1,Finnish,New
+11/10/2020,Planner1,Guaraní,New
+10/13/2020,Planner4,Hungarian,In Progress
+5/27/2020,Planner4,Papiamento,Done
+10/10/2020,Planner3,Lao,In Progress
+8/29/2020,Planner4,Aymara,New
+1/30/2020,Planner1,Gujarati,New
+8/13/2020,Planner1,Haitian Creole,In Progress
+7/15/2020,Planner2,Gujarati,In Progress
+10/8/2020,Planner4,Tamil,In Progress
+4/1/2020,Planner4,Tetum,New
+8/7/2020,Planner2,Malagasy,New
+1/21/2020,Planner4,Tajik,Done
+9/29/2020,Planner3,Tamil,Done
+10/17/2020,Planner2,Romanian,Done
+8/17/2020,Planner4,Arabic,In Progress
+11/28/2020,Planner4,West Frisian,In Progress
+4/16/2020,Planner3,Latvian,In Progress
+12/2/2020,Planner1,Ndebele,Done
+4/6/2020,Planner2,Bosnian,In Progress
+3/13/2020,Planner1,Dutch,New
+8/30/2020,Planner3,Arabic,New
+2/8/2020,Planner4,Marathi,Done
+3/24/2020,Planner2,Marathi,Done
+7/23/2020,Planner4,Lao,Done
+1/3/2020,Planner2,Malagasy,Done
+1/25/2020,Planner4,Malay,New
+4/30/2020,Planner1,Malay,In Progress
+11/10/2020,Planner1,Korean,New
+7/23/2020,Planner3,Amharic,New
+12/28/2019,Planner2,Maltese,Done
+1/13/2020,Planner3,Tetum,Done
+8/25/2020,Planner3,Kannada,Done
+11/13/2020,Planner4,Georgian,Done
+11/9/2020,Planner1,Persian,New
+1/29/2020,Planner4,Khmer,Done
+9/12/2020,Planner4,Italian,New
+2/10/2020,Planner4,Filipino,In Progress
+5/31/2020,Planner2,Hungarian,In Progress
+3/28/2020,Planner2,Belarusian,Done
+6/17/2020,Planner2,French,In Progress
+8/2/2020,Planner4,Swati,New
+10/20/2020,Planner2,Zulu,Done
+8/13/2020,Planner1,Amharic,In Progress
+9/6/2020,Planner4,Lao,New
+1/27/2020,Planner1,Polish,Done
+6/29/2020,Planner2,Hebrew,In Progress
+10/15/2020,Planner4,Swati,Done
+9/5/2020,Planner4,Khmer,In Progress
+4/7/2020,Planner3,Belarusian,In Progress
+7/14/2020,Planner3,Italian,In Progress
+12/22/2019,Planner1,Polish,Done
+5/24/2020,Planner4,Indonesian,Done
+6/3/2020,Planner1,Georgian,New
+3/17/2020,Planner3,Croatian,In Progress
+9/28/2020,Planner1,Dari,Done
+2/9/2020,Planner3,Gujarati,New
+2/19/2020,Planner3,Irish Gaelic,New
+1/27/2020,Planner2,Estonian,Done
+11/9/2020,Planner3,Hindi,In Progress
+9/8/2020,Planner1,Dhivehi,Done
+10/3/2020,Planner1,Papiamento,Done
+2/20/2020,Planner3,Tajik,Done
+4/19/2020,Planner3,Croatian,In Progress
+7/24/2020,Planner3,Afrikaans,Done
+9/29/2020,Planner3,Nepali,In Progress
+9/18/2020,Planner4,Guaraní,In Progress
+10/24/2020,Planner2,Bosnian,Done
+7/4/2020,Planner2,Tamil,In Progress
+11/28/2020,Planner3,Latvian,Done
+11/11/2020,Planner2,Mongolian,In Progress
+7/15/2020,Planner2,Hebrew,In Progress
+4/26/2020,Planner2,Papiamento,New
+12/5/2019,Planner4,Luxembourgish,Done
+4/23/2020,Planner3,Hindi,New
+4/10/2020,Planner1,Tok Pisin,New
+5/25/2020,Planner1,Malay,Done
+1/30/2020,Planner2,Danish,Done
+2/5/2020,Planner2,Tok Pisin,Done
+8/30/2020,Planner1,Sotho,New
+9/18/2020,Planner4,Marathi,New
+12/14/2019,Planner3,Dutch,In Progress
+6/21/2020,Planner2,Tamil,Done
+2/19/2020,Planner4,Bislama,Done
+4/23/2020,Planner4,Aymara,In Progress
+11/22/2020,Planner4,French,Done
+3/21/2020,Planner3,Tsonga,New
+9/17/2020,Planner3,German,New
+6/4/2020,Planner2,Khmer,Done
+5/11/2020,Planner4,Swedish,New
+7/14/2020,Planner4,Telugu,New
+4/4/2020,Planner2,Khmer,Done
+1/15/2020,Planner4,Dzongkha,New
+11/18/2020,Planner4,Quechua,In Progress
+6/7/2020,Planner2,Arabic,Done
+7/15/2020,Planner3,Yiddish,New
+8/10/2020,Planner3,Thai,Done
+9/17/2020,Planner1,Danish,Done
+11/13/2020,Planner4,Gujarati,In Progress
+8/12/2020,Planner4,Japanese,Done
+6/29/2020,Planner4,Catalan,In Progress
+8/11/2020,Planner2,Arabic,In Progress
+4/18/2020,Planner4,Haitian Creole,In Progress
+4/27/2020,Planner3,Croatian,Done
+8/2/2020,Planner1,Latvian,Done
+6/2/2020,Planner2,Ndebele,Done
+1/25/2020,Planner2,Latvian,Done
+1/21/2020,Planner2,Bengali,In Progress
+9/15/2020,Planner1,Marathi,In Progress
+2/25/2020,Planner4,Yiddish,In Progress
+10/12/2020,Planner3,Malagasy,Done
+12/5/2019,Planner4,French,New
+5/25/2020,Planner1,Arabic,In Progress
+12/10/2019,Planner2,Oriya,New
+6/16/2020,Planner1,Dzongkha,New
+4/22/2020,Planner4,Chinese,In Progress
+6/28/2020,Planner4,Amharic,In Progress
+10/8/2020,Planner4,Northern Sotho,Done
+8/27/2020,Planner3,Arabic,Done
+9/15/2020,Planner3,Kannada,New
+9/26/2020,Planner3,Polish,Done
+9/16/2020,Planner3,Quechua,New
+1/19/2020,Planner4,Georgian,New
+3/27/2020,Planner3,Indonesian,In Progress
+9/3/2020,Planner2,Estonian,New
+2/6/2020,Planner1,Catalan,New
+12/1/2020,Planner4,Lao,In Progress
+2/3/2020,Planner3,Malayalam,In Progress
+4/29/2020,Planner4,Malay,In Progress
+10/21/2020,Planner4,Telugu,In Progress
+7/4/2020,Planner2,Hiri Motu,In Progress
+10/20/2020,Planner2,Assamese,New
+8/24/2020,Planner1,Macedonian,Done
+8/7/2020,Planner4,Maltese,In Progress
+9/14/2020,Planner2,Dzongkha,Done
+12/14/2019,Planner2,Malagasy,New
+11/28/2020,Planner1,Dutch,New
+7/8/2020,Planner4,Gujarati,In Progress
+2/9/2020,Planner4,Croatian,Done
+9/18/2020,Planner2,Swati,In Progress
+11/4/2020,Planner4,Latvian,New
+4/30/2020,Planner2,Tajik,In Progress
+2/22/2020,Planner1,Somali,New
+4/29/2020,Planner4,Oriya,New
+2/16/2020,Planner4,Chinese,In Progress
+10/30/2020,Planner2,Danish,New
+5/2/2020,Planner3,Bengali,Done
+10/27/2020,Planner1,Bislama,New
+7/16/2020,Planner3,Malagasy,In Progress
+12/11/2019,Planner3,Belarusian,New
+2/16/2020,Planner4,Pashto,New
+5/22/2020,Planner3,Punjabi,Done
+6/25/2020,Planner4,Hungarian,Done
+10/24/2020,Planner2,Telugu,Done
+9/27/2020,Planner1,Oriya,In Progress
+9/18/2020,Planner3,Polish,New
+5/18/2020,Planner4,Tswana,Done
+4/16/2020,Planner3,Assamese,Done
+8/21/2020,Planner4,Dari,In Progress
+9/30/2020,Planner2,Māori,In Progress
+9/12/2020,Planner1,Gagauz,New
+4/7/2020,Planner1,Korean,In Progress
+1/12/2020,Planner2,Persian,New
+2/18/2020,Planner4,Finnish,Done
+3/19/2020,Planner3,Gagauz,New
+8/16/2020,Planner4,Tamil,New
+3/28/2020,Planner3,Latvian,New
+6/20/2020,Planner1,Tsonga,In Progress
+12/4/2019,Planner1,Irish Gaelic,New
+7/26/2020,Planner2,Malay,In Progress
+8/28/2020,Planner4,Spanish,New
+4/7/2020,Planner4,Nepali,In Progress
+4/6/2020,Planner1,Macedonian,Done
+9/22/2020,Planner2,Estonian,New
+9/7/2020,Planner3,Swedish,In Progress
+6/6/2020,Planner1,Māori,Done
+7/23/2020,Planner1,Portuguese,In Progress
+8/13/2020,Planner4,Macedonian,In Progress
+3/2/2020,Planner1,Indonesian,Done
+1/15/2020,Planner1,New Zealand Sign Language,Done
+11/18/2020,Planner1,Swati,New
+11/2/2020,Planner2,Hiri Motu,In Progress
+11/25/2020,Planner4,Kurdish,Done
+8/25/2020,Planner2,Māori,Done
+2/2/2020,Planner3,West Frisian,In Progress
+9/19/2020,Planner4,Tswana,Done
+2/6/2020,Planner4,Guaraní,Done
+4/21/2020,Planner2,Northern Sotho,In Progress
+3/19/2020,Planner2,Greek,Done
+2/10/2020,Planner2,Tsonga,In Progress
+10/18/2020,Planner1,Haitian Creole,Done
+3/28/2020,Planner1,Kashmiri,New
+8/30/2020,Planner3,Guaraní,Done
+3/15/2020,Planner4,Kurdish,New
+5/6/2020,Planner2,Hebrew,Done
+5/27/2020,Planner1,Danish,Done
+5/3/2020,Planner1,Persian,New
+7/21/2020,Planner4,Gujarati,New
+5/25/2020,Planner2,Swati,In Progress
+9/1/2020,Planner4,Hungarian,Done
+4/3/2020,Planner1,Dari,Done
+1/1/2020,Planner4,Luxembourgish,Done
+5/12/2020,Planner2,Filipino,Done
+5/24/2020,Planner1,Luxembourgish,New
+11/29/2020,Planner4,Guaraní,New
+11/3/2020,Planner2,Maltese,In Progress
+5/24/2020,Planner1,Quechua,New
+7/29/2020,Planner1,Kannada,Done
+3/23/2020,Planner3,Kannada,Done
+9/7/2020,Planner2,Swahili,In Progress
+8/13/2020,Planner1,Zulu,Done
+4/28/2020,Planner3,Bosnian,Done
+3/25/2020,Planner4,Danish,In Progress
+3/18/2020,Planner3,Dutch,Done
+4/11/2020,Planner4,Swati,Done
+11/27/2020,Planner1,Korean,In Progress
+11/1/2020,Planner3,Bosnian,New
+2/20/2020,Planner2,Estonian,In Progress
+5/30/2020,Planner2,Chinese,Done
+3/18/2020,Planner3,Kannada,Done
+10/26/2020,Planner2,German,In Progress
+2/8/2020,Planner1,Hungarian,New
+10/10/2020,Planner1,Bulgarian,In Progress
+11/16/2020,Planner2,Japanese,New
+8/6/2020,Planner3,German,New
+8/30/2020,Planner4,Kyrgyz,Done
+5/17/2020,Planner4,Tsonga,New
+6/10/2020,Planner2,Chinese,New
+12/2/2020,Planner3,Kurdish,Done
+2/16/2020,Planner1,Indonesian,New
+4/30/2020,Planner4,Marathi,Done
+7/1/2020,Planner2,Finnish,Done
+9/11/2020,Planner1,Latvian,In Progress
+1/31/2020,Planner1,Albanian,Done
+2/17/2020,Planner4,Māori,Done
+9/16/2020,Planner3,Bengali,New
+6/24/2020,Planner3,Kyrgyz,Done
+11/12/2020,Planner4,Estonian,New
+4/14/2020,Planner4,French,Done
+11/2/2020,Planner1,English,Done
+4/1/2020,Planner3,Filipino,In Progress
+7/30/2020,Planner3,Chinese,New
+8/19/2020,Planner2,Belarusian,New
+6/2/2020,Planner3,Irish Gaelic,New
+9/18/2020,Planner2,West Frisian,In Progress
+6/4/2020,Planner4,Hungarian,Done
+6/19/2020,Planner3,Japanese,Done
+4/6/2020,Planner4,Norwegian,In Progress
+6/24/2020,Planner2,Albanian,Done
+5/19/2020,Planner3,Māori,New
+4/20/2020,Planner4,Malayalam,New
+1/9/2020,Planner1,Croatian,New
+12/28/2019,Planner3,Luxembourgish,New
+7/6/2020,Planner4,Guaraní,New
+4/26/2020,Planner2,Croatian,In Progress
+6/7/2020,Planner4,Punjabi,In Progress
+11/5/2020,Planner3,Tetum,Done
+10/18/2020,Planner2,Czech,In Progress
+2/2/2020,Planner4,Pashto,Done
+12/1/2020,Planner2,Tetum,New
+2/11/2020,Planner1,Bosnian,Done
+10/15/2020,Planner2,Tamil,In Progress
+9/19/2020,Planner3,Armenian,New
+12/7/2019,Planner4,Hindi,New
+11/15/2020,Planner3,Bengali,In Progress
+9/25/2020,Planner4,Gagauz,Done
+11/2/2020,Planner1,Oriya,Done
+2/29/2020,Planner1,Irish Gaelic,Done
+7/18/2020,Planner1,Tajik,New
+10/14/2020,Planner1,Albanian,In Progress
+5/7/2020,Planner2,Catalan,New
+9/18/2020,Planner4,Indonesian,Done
+11/22/2020,Planner4,Arabic,New
+12/10/2019,Planner3,Hebrew,New
+7/26/2020,Planner1,Persian,New
+1/8/2020,Planner1,Greek,Done
+2/10/2020,Planner2,Bislama,New
+4/8/2020,Planner4,Dhivehi,In Progress
+4/25/2020,Planner1,Tok Pisin,In Progress
+9/2/2020,Planner2,Spanish,Done
+12/2/2020,Planner1,Fijian,New
+7/15/2020,Planner3,Macedonian,In Progress
+5/12/2020,Planner3,Nepali,New
+3/16/2020,Planner2,Pashto,In Progress
+11/24/2020,Planner1,Macedonian,In Progress
+1/26/2020,Planner1,Moldovan,New
+3/23/2020,Planner4,Papiamento,New
+4/2/2020,Planner4,Kazakh,In Progress
+4/12/2020,Planner3,Burmese,In Progress
+3/6/2020,Planner2,Burmese,New
+9/9/2020,Planner4,Romanian,Done
+3/19/2020,Planner1,New Zealand Sign Language,Done
+11/5/2020,Planner1,Macedonian,In Progress
+4/17/2020,Planner3,Danish,New
+7/29/2020,Planner3,Dari,In Progress
+2/25/2020,Planner2,Filipino,Done
+2/3/2020,Planner4,Kazakh,New
+10/12/2020,Planner2,Azeri,In Progress
+6/28/2020,Planner2,Swedish,Done
+10/30/2020,Planner2,Northern Sotho,Done
+2/19/2020,Planner2,Kyrgyz,In Progress
+10/14/2020,Planner1,French,New
+11/23/2020,Planner1,West Frisian,New
+4/3/2020,Planner3,Yiddish,New
+1/13/2020,Planner3,Malay,In Progress
+8/3/2020,Planner2,Dzongkha,New
+5/13/2020,Planner3,German,Done
+3/6/2020,Planner3,Bosnian,Done
+1/6/2020,Planner4,Guaraní,In Progress
+9/26/2020,Planner3,Quechua,Done
+4/19/2020,Planner3,Thai,New
+7/15/2020,Planner1,Oriya,Done
+1/4/2020,Planner3,Lithuanian,In Progress
+3/18/2020,Planner3,Bulgarian,New
+9/18/2020,Planner4,Lithuanian,Done
+12/18/2019,Planner4,Amharic,Done
+3/16/2020,Planner2,Tajik,In Progress
+6/18/2020,Planner3,Tetum,New
+4/21/2020,Planner4,Tsonga,Done
+7/13/2020,Planner4,Albanian,In Progress
+7/4/2020,Planner1,Luxembourgish,New
+7/8/2020,Planner1,Ndebele,In Progress
+2/9/2020,Planner4,Māori,New
+12/2/2020,Planner2,Dari,In Progress
+6/1/2020,Planner4,Māori,Done
+10/6/2020,Planner2,Malay,New
+8/19/2020,Planner4,Kurdish,In Progress
+11/7/2020,Planner1,Tok Pisin,In Progress
+6/25/2020,Planner2,Persian,In Progress
+8/31/2020,Planner3,Filipino,In Progress
+8/15/2020,Planner1,Dhivehi,New
+2/19/2020,Planner1,Swedish,New
+12/12/2019,Planner3,Aymara,In Progress
+1/23/2020,Planner3,Haitian Creole,Done
+11/5/2020,Planner1,Dari,New
+4/26/2020,Planner4,Gagauz,Done
+9/18/2020,Planner3,Latvian,New
+8/17/2020,Planner4,Tsonga,Done
+1/9/2020,Planner1,Bulgarian,New
+11/25/2020,Planner2,West Frisian,Done
+8/17/2020,Planner4,Maltese,In Progress
+5/30/2020,Planner2,Bulgarian,Done
+7/20/2020,Planner4,Croatian,Done
+8/23/2020,Planner3,Bengali,In Progress
+7/26/2020,Planner3,Afrikaans,Done
+5/22/2020,Planner3,Georgian,Done
+12/29/2019,Planner4,Fijian,In Progress
+5/11/2020,Planner3,Dari,Done
+5/2/2020,Planner1,Icelandic,Done
+2/26/2020,Planner1,Ndebele,In Progress
+4/12/2020,Planner1,Macedonian,New
+3/29/2020,Planner2,Hebrew,Done
+6/6/2020,Planner4,Amharic,In Progress
+3/6/2020,Planner4,Aymara,New
+6/10/2020,Planner4,Maltese,In Progress
+12/23/2019,Planner1,Spanish,Done
+3/9/2020,Planner2,Tajik,In Progress
+3/14/2020,Planner2,Amharic,Done
+2/1/2020,Planner4,Dzongkha,In Progress
+3/31/2020,Planner1,Gujarati,Done
+10/30/2020,Planner1,Kurdish,In Progress
+7/20/2020,Planner3,Portuguese,In Progress
+3/13/2020,Planner1,Dutch,In Progress
+1/30/2020,Planner2,New Zealand Sign Language,Done
+9/10/2020,Planner1,Azeri,New
+10/17/2020,Planner1,Papiamento,Done
+2/9/2020,Planner3,French,New
+6/1/2020,Planner4,Pashto,New
+8/1/2020,Planner1,Tswana,New
+4/27/2020,Planner1,Bislama,Done
+2/25/2020,Planner4,German,In Progress
+3/10/2020,Planner2,Spanish,New
+6/5/2020,Planner1,Irish Gaelic,In Progress
+11/4/2020,Planner1,Polish,In Progress
+2/16/2020,Planner4,Albanian,Done
+1/1/2020,Planner3,Luxembourgish,Done
+2/26/2020,Planner3,Chinese,New
+6/30/2020,Planner1,Lithuanian,In Progress
+8/26/2020,Planner1,Tok Pisin,In Progress
+8/17/2020,Planner3,Korean,In Progress
+1/2/2020,Planner3,Tamil,New
+3/31/2020,Planner4,Fijian,New
+3/6/2020,Planner2,Nepali,In Progress
+4/25/2020,Planner3,Kyrgyz,In Progress
+2/12/2020,Planner1,Greek,New
+4/29/2020,Planner1,Malay,Done
+4/30/2020,Planner4,Kazakh,Done
+10/3/2020,Planner3,Bosnian,New
+3/4/2020,Planner4,Thai,Done
+6/28/2020,Planner2,Telugu,New
+1/24/2020,Planner1,Indonesian,New
+10/31/2020,Planner4,Yiddish,New
+11/3/2020,Planner4,Malagasy,Done
+1/6/2020,Planner2,Papiamento,Done
+10/10/2020,Planner3,Kazakh,In Progress
+8/9/2020,Planner4,Malayalam,Done
+10/20/2020,Planner2,French,New
+8/18/2020,Planner4,Hungarian,New
+11/24/2020,Planner1,Montenegrin,New
+1/11/2020,Planner3,Finnish,In Progress
+9/15/2020,Planner1,Māori,In Progress
+2/21/2020,Planner3,New Zealand Sign Language,In Progress
+9/1/2020,Planner2,Burmese,New
+11/18/2020,Planner2,Oriya,In Progress
+10/5/2020,Planner4,Pashto,Done
+12/12/2019,Planner1,Malay,In Progress
+8/25/2020,Planner3,Oriya,New
+9/21/2020,Planner2,Kyrgyz,New
+2/17/2020,Planner2,Swati,New
+11/16/2020,Planner3,Luxembourgish,In Progress
+10/12/2020,Planner4,German,Done
+12/13/2019,Planner4,New Zealand Sign Language,Done
+12/19/2019,Planner1,Sotho,New
+5/16/2020,Planner3,Belarusian,Done
+9/4/2020,Planner4,Tswana,Done
+9/11/2020,Planner2,Hiri Motu,Done
+12/14/2019,Planner1,Māori,Done
+5/8/2020,Planner2,Lao,New
+9/3/2020,Planner3,English,In Progress
+11/21/2020,Planner4,Punjabi,Done
+5/5/2020,Planner3,Somali,New
+5/19/2020,Planner2,German,Done
+3/11/2020,Planner1,Bosnian,New
+1/26/2020,Planner4,Tok Pisin,In Progress
+6/22/2020,Planner2,Romanian,In Progress
+11/5/2020,Planner4,Pashto,Done
+1/18/2020,Planner1,Filipino,New
+2/1/2020,Planner3,Mongolian,New
+11/26/2020,Planner2,Kashmiri,In Progress
+7/8/2020,Planner3,Montenegrin,Done
+12/17/2019,Planner2,Dzongkha,Done
+4/29/2020,Planner3,Quechua,Done
+6/20/2020,Planner4,Amharic,New
+6/17/2020,Planner4,Kyrgyz,New
+8/17/2020,Planner4,Somali,New
+9/3/2020,Planner1,Malagasy,New
+5/19/2020,Planner4,Dutch,New
+1/9/2020,Planner1,Kazakh,In Progress
+11/5/2020,Planner3,Japanese,New
+10/24/2020,Planner4,Kannada,New
+4/7/2020,Planner1,Polish,In Progress
+1/18/2020,Planner2,Icelandic,Done
+11/24/2020,Planner1,Lithuanian,New
+12/6/2019,Planner2,Thai,Done
+11/23/2020,Planner1,Korean,In Progress
+6/20/2020,Planner3,Burmese,In Progress
+1/22/2020,Planner3,Aymara,Done
+2/20/2020,Planner1,Czech,New
+11/17/2020,Planner3,Malayalam,In Progress
+10/2/2020,Planner4,Tsonga,Done
+8/10/2020,Planner1,Albanian,In Progress
+5/27/2020,Planner2,Georgian,New
+5/9/2020,Planner3,Thai,New
+8/19/2020,Planner2,Kashmiri,Done
+9/7/2020,Planner1,English,In Progress
+4/30/2020,Planner1,Tok Pisin,In Progress
+3/13/2020,Planner3,Zulu,In Progress
+10/25/2020,Planner3,Tajik,Done
+12/1/2020,Planner2,Punjabi,Done
+3/4/2020,Planner2,Georgian,New
+10/28/2020,Planner2,Kazakh,New
+12/21/2019,Planner4,Macedonian,Done
+8/27/2020,Planner3,Italian,In Progress
+10/8/2020,Planner4,Albanian,Done
+10/5/2020,Planner2,Czech,Done
+2/28/2020,Planner2,Catalan,Done
+10/2/2020,Planner4,Bulgarian,New
+5/7/2020,Planner1,Indonesian,New
+1/10/2020,Planner2,Romanian,Done
+6/9/2020,Planner1,Pashto,New
+12/7/2019,Planner4,Dzongkha,Done
+11/2/2020,Planner1,Dhivehi,New
+11/5/2020,Planner3,Quechua,Done
+1/27/2020,Planner1,Dari,In Progress
+8/3/2020,Planner3,Georgian,Done
+9/5/2020,Planner3,Ndebele,Done
+1/17/2020,Planner3,Filipino,Done
+11/2/2020,Planner2,Bulgarian,New
+10/23/2020,Planner1,Icelandic,Done
+6/3/2020,Planner2,Sotho,In Progress
+1/30/2020,Planner1,Norwegian,New
+5/15/2020,Planner4,Lao,In Progress
+12/22/2019,Planner2,Kurdish,Done
+6/7/2020,Planner2,Hindi,Done
+12/19/2019,Planner3,Kurdish,Done
+11/25/2020,Planner3,German,Done
+2/12/2020,Planner2,Hiri Motu,In Progress
+4/17/2020,Planner2,Kyrgyz,In Progress
+4/27/2020,Planner3,Bengali,New
+5/9/2020,Planner2,Somali,In Progress
+8/28/2020,Planner1,Japanese,Done
+9/24/2020,Planner4,Norwegian,New
+12/13/2019,Planner2,Yiddish,In Progress
+10/21/2020,Planner2,Norwegian,New
+7/2/2020,Planner4,Bengali,Done
+3/24/2020,Planner3,Somali,Done
+10/14/2020,Planner4,Oriya,Done
+9/13/2020,Planner4,Swahili,In Progress
+10/20/2020,Planner4,Portuguese,Done
+12/17/2019,Planner3,Aymara,Done
+5/17/2020,Planner1,Nepali,Done
+12/10/2019,Planner1,Somali,New
+5/24/2020,Planner1,Oriya,Done
+10/6/2020,Planner2,Dutch,New
+1/14/2020,Planner2,Guaraní,In Progress
+10/22/2020,Planner2,Hungarian,In Progress
+6/24/2020,Planner2,Assamese,Done
+9/3/2020,Planner1,Irish Gaelic,Done
+6/9/2020,Planner2,Kashmiri,Done
+3/5/2020,Planner3,Marathi,In Progress
+10/25/2020,Planner2,Malayalam,New
+9/4/2020,Planner3,Telugu,Done
+5/13/2020,Planner1,Malayalam,New
+9/9/2020,Planner4,Swedish,Done
+5/21/2020,Planner4,Norwegian,In Progress
+12/20/2019,Planner1,Nepali,New
+5/30/2020,Planner3,Dutch,In Progress
+12/24/2019,Planner2,Burmese,Done
+11/10/2020,Planner3,Sotho,New
+2/17/2020,Planner2,Macedonian,In Progress
+12/18/2019,Planner2,Swedish,New
+10/18/2020,Planner2,Yiddish,New
+12/31/2019,Planner2,Kazakh,In Progress
+1/19/2020,Planner2,Portuguese,In Progress
+4/2/2020,Planner2,Fijian,In Progress
+10/24/2020,Planner2,Kazakh,Done
+11/1/2020,Planner1,Filipino,Done
+9/5/2020,Planner1,Swedish,Done
+3/25/2020,Planner1,Dutch,In Progress
+1/19/2020,Planner3,West Frisian,In Progress
+7/3/2020,Planner3,Oriya,Done
+11/4/2020,Planner2,Indonesian,Done
+4/10/2020,Planner2,Polish,New
+1/14/2020,Planner4,Norwegian,In Progress
+1/9/2020,Planner2,Portuguese,Done
+5/31/2020,Planner2,Croatian,New
+6/21/2020,Planner3,Burmese,New
+4/16/2020,Planner4,Tajik,New
+11/20/2020,Planner1,Indonesian,New
+1/16/2020,Planner3,Chinese,Done
+1/27/2020,Planner2,Nepali,In Progress
+4/25/2020,Planner2,Quechua,In Progress
+1/8/2020,Planner1,Finnish,New
+5/4/2020,Planner4,Estonian,In Progress
+3/20/2020,Planner3,Irish Gaelic,In Progress
+4/10/2020,Planner1,Spanish,In Progress
+4/26/2020,Planner3,Czech,Done
+3/13/2020,Planner4,Bosnian,Done
+4/7/2020,Planner4,Hebrew,Done
+9/6/2020,Planner4,Polish,New
+8/5/2020,Planner1,Greek,In Progress
+9/4/2020,Planner3,Swahili,New
+7/4/2020,Planner3,Romanian,New
+5/24/2020,Planner1,Finnish,New
+2/21/2020,Planner3,Afrikaans,New
+1/23/2020,Planner3,Kurdish,Done
+6/2/2020,Planner4,Lithuanian,Done
+1/10/2020,Planner1,Luxembourgish,Done
+10/9/2020,Planner4,Filipino,Done
+10/1/2020,Planner3,Greek,In Progress
+9/24/2020,Planner4,Dari,Done
+6/13/2020,Planner3,Swahili,New
+8/12/2020,Planner3,Latvian,In Progress
+12/13/2019,Planner3,Dzongkha,New
+6/3/2020,Planner1,Lao,In Progress
+10/1/2020,Planner2,Māori,New
+11/18/2020,Planner1,Swati,Done
+7/4/2020,Planner2,Danish,In Progress
+3/11/2020,Planner1,Korean,New
+10/19/2020,Planner4,Hindi,New
+4/17/2020,Planner1,Italian,Done
+4/28/2020,Planner3,New Zealand Sign Language,Done
+3/19/2020,Planner4,Nepali,Done
+3/28/2020,Planner4,Swahili,New
+2/9/2020,Planner4,Tsonga,New
+6/17/2020,Planner2,Estonian,New
+6/2/2020,Planner4,Romanian,New
+3/6/2020,Planner3,Tamil,In Progress
+4/10/2020,Planner1,Icelandic,Done
+2/13/2020,Planner1,Malay,In Progress
+1/28/2020,Planner3,Assamese,In Progress
+9/22/2020,Planner2,Belarusian,Done
+2/28/2020,Planner2,Danish,Done
+2/14/2020,Planner3,Chinese,In Progress
+1/29/2020,Planner1,Kurdish,New
+8/28/2020,Planner2,Kurdish,New
+3/27/2020,Planner4,Kurdish,In Progress
+7/2/2020,Planner4,Kannada,Done
+1/24/2020,Planner3,Pashto,In Progress
+9/30/2020,Planner4,Gujarati,In Progress
+5/16/2020,Planner3,Kannada,Done
+8/24/2020,Planner4,Guaraní,New
+8/7/2020,Planner1,Korean,Done
+6/30/2020,Planner3,Azeri,In Progress
+2/21/2020,Planner1,Hindi,Done

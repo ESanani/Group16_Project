@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.layout.StackPane?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="554.0" prefWidth="793.0" style="-fx-background-color: #02030A;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.controller.NewPlannerController">
+   <children>
+      <Label layoutX="57.0" layoutY="72.0" text="New Task" textFill="#e7e5e5">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <HBox alignment="CENTER_LEFT" layoutX="70.0" layoutY="100.0" prefHeight="55.0" prefWidth="660.0">
+         <children>
+            <VBox alignment="CENTER" prefHeight="200.0" prefWidth="230.0" spacing="5.0">
+               <children>
+                  <Label text="Task Name" textFill="#e7e5e5" />
+                  <TextField fx:id="newPlannerTask" style="-fx-background-color: transparent; -fx-border-radius: 20; -fx-border-color: #2A73FF;" stylesheets="@../css/dash2.css" />
+               </children>
+            </VBox>
+            <VBox alignment="CENTER" prefHeight="200.0" prefWidth="230.0" spacing="5.0">
+               <children>
+                  <Label text="Date" textFill="#e7e5e5" />
+                  <DatePicker fx:id="newPlannerDatePicker" style="-fx-border-color: #2A73FF; -fx-background-color: transparent; -fx-border-radius: 20;" stylesheets="@../css/dash2.css" />
+               </children>
+            </VBox>
+            <VBox alignment="CENTER" layoutX="240.0" layoutY="10.0" prefHeight="200.0" prefWidth="200.0" spacing="5.0">
+               <children>
+                  <Label text="Status" textFill="#e7e5e5" />
+                  <ComboBox fx:id="newPlannerStatusBox" prefWidth="150.0" style="-fx-background-color: transparent; -fx-border-color: #2A73FF; -fx-border-radius: 20;" stylesheets="@../css/dash2.css" />
+               </children>
+            </VBox>
+            <VBox alignment="CENTER" layoutX="470.0" layoutY="10.0" prefHeight="200.0" prefWidth="100.0" spacing="5.0">
+               <children>
+                  <Label textFill="#e7e5e5" />
+                  <Button fx:id="addTaskBTN" mnemonicParsing="false" onAction="#addItemAction" style="-fx-border-color: #2A73FF; -fx-border-radius: 20; -fx-background-radius: 20;" stylesheets="@../css/dash2.css" text="Add Task" />
+               </children>
+            </VBox>
+         </children>
+      </HBox>
+      <TextField fx:id="newPlannerName" layoutX="45.0" layoutY="15.0" promptText="Enter Planner Name" style="-fx-background-color: #02030A;" stylesheets="@../css/dash2.css">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </TextField>
+      <TableView fx:id="itemsTable" layoutX="40.0" layoutY="175.0" prefHeight="320.0" prefWidth="702.0" style="-fx-background-color: #02030A;" stylesheets="@../css/dash2.css">
+        <columns>
+          <TableColumn fx:id="TaskNameCol" maxWidth="234.0" minWidth="234.0" prefWidth="234.0" text="Task Name" />
+          <TableColumn fx:id="DateCol" maxWidth="234.0" minWidth="234.0" prefWidth="234.0" text="Date" />
+            <TableColumn fx:id="TaskStatusCol" maxWidth="234.0" minWidth="234.0" prefWidth="237.0" text="Status" />
+        </columns>
+      </TableView>
+      <Button id="Save" fx:id="savePlnrBTN" layoutX="610.0" layoutY="511.0" mnemonicParsing="false" onAction="#savePlannerAction" prefHeight="29.0" prefWidth="150.0" styleClass="SaveBTN" stylesheets="@../css/dash2.css" text="Save Changes" />
+      <Button fx:id="newPlnrBTN" contentDisplay="RIGHT" graphicTextGap="8.0" layoutX="679.0" layoutY="21.0" mnemonicParsing="false" onAction="#newPlnrBtnAction" prefHeight="35.0" prefWidth="85.0" style="-fx-background-color: transparent; -fx-border-color: #1ECD97; -fx-border-radius: 20;" text="New" textFill="WHITE">
+         <graphic>
+            <ImageView fitHeight="23.0" fitWidth="24.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/icons8-add-file-32.png" />
+               </image>
+            </ImageView>
+         </graphic>
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+   </children>
+</Pane>

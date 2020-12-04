@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.StackPane?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="554.0" prefWidth="793.0" style="-fx-background-color: #02030A;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.controller.PlannersController">
+   <children>
+      <Label layoutX="57.0" layoutY="20.0" text="My Planners" textFill="#e7e5e5">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <ComboBox fx:id="openPlnrBox" layoutX="590.0" layoutY="20.0" onAction="#openPlnrBoxAction" prefWidth="150.0" promptText="Open Planner" style="-fx-background-color: transparent; -fx-border-color: #2A73FF; -fx-border-radius: 20;" stylesheets="@../css/dash2.css" />
+      <VBox fx:id="addTaskEdit" layoutX="57.0" layoutY="64.0" prefHeight="100.0" spacing="10.0">
+         <children>
+            <Label text="Add New Task" textFill="#e7e5e5">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <HBox alignment="CENTER_LEFT" layoutX="57.0" layoutY="99.0" prefHeight="55.0" prefWidth="660.0">
+               <children>
+                  <VBox alignment="CENTER" prefHeight="200.0" prefWidth="230.0" spacing="5.0">
+                     <children>
+                        <Label text="Task Name" textFill="#e7e5e5" />
+                        <TextField fx:id="addNewTaskName" style="-fx-background-color: transparent; -fx-border-radius: 20; -fx-border-color: #2A73FF;" stylesheets="@../css/dash2.css" />
+                     </children>
+                  </VBox>
+                  <VBox alignment="CENTER" prefHeight="200.0" prefWidth="230.0" spacing="5.0">
+                     <children>
+                        <Label text="Date" textFill="#e7e5e5" />
+                        <DatePicker fx:id="newTaskDate" style="-fx-border-color: #2A73FF; -fx-background-color: transparent; -fx-border-radius: 20;" stylesheets="@../css/dash2.css" />
+                     </children>
+                  </VBox>
+                  <VBox alignment="CENTER" layoutX="240.0" layoutY="10.0" prefHeight="200.0" prefWidth="200.0" spacing="5.0">
+                     <children>
+                        <Label text="Status" textFill="#e7e5e5" />
+                        <ComboBox fx:id="newTaskStatus" prefWidth="150.0" style="-fx-background-color: transparent; -fx-border-color: #2A73FF; -fx-border-radius: 20;" stylesheets="@../css/dash2.css" />
+                     </children>
+                  </VBox>
+                  <VBox alignment="CENTER" layoutX="470.0" layoutY="10.0" prefHeight="200.0" prefWidth="100.0" spacing="5.0">
+                     <children>
+                        <Label textFill="#e7e5e5" />
+                        <Button fx:id="addNewTaskBTN" mnemonicParsing="false" onAction="#newTaskBtnAction" style="-fx-border-color: #2A73FF; -fx-border-radius: 20; -fx-background-radius: 20;" stylesheets="@../css/dash2.css" text="Add Task" />
+                     </children>
+                  </VBox>
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+      <Button id="Save" fx:id="savePlanrChanges" layoutX="611.0" layoutY="511.0" mnemonicParsing="false" onAction="#savePlanrChangesAction" prefHeight="29.0" prefWidth="150.0" styleClass="SaveBTN" stylesheets="@../css/dash2.css" text="Save Changes" />
+      <VBox layoutX="45.0" layoutY="165.0" spacing="5.0">
+         <children>
+            <HBox alignment="TOP_CENTER" spacing="200.0">
+               <children>
+                  <HBox alignment="CENTER_LEFT" prefWidth="250.0" spacing="5.0">
+                     <children>
+                        <Label fx:id="curPlanLabel" textFill="#e7e5e5">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                        </Label>
+                        <Button fx:id="editPlnrBtn" contentDisplay="GRAPHIC_ONLY" mnemonicParsing="false" onAction="#editPlannerAction" prefHeight="42.0" style="-fx-background-color: transparent;" text="Button">
+                           <graphic>
+                              <ImageView fitHeight="32.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true">
+                                 <image>
+                                    <Image url="@../images/icons8-edit-property-32.png" />
+                                 </image>
+                              </ImageView>
+                           </graphic>
+                        </Button>
+                     </children>
+                  </HBox>
+                  <HBox alignment="CENTER_LEFT" layoutX="45.0" layoutY="165.0" prefWidth="250.0" spacing="7.0">
+                     <children>
+                        <Label layoutX="45.0" layoutY="170.0" text="Search Item" textFill="#e7e5e5">
+                           <font>
+                              <Font size="14.0" />
+                           </font>
+                        </Label>
+                        <TextField fx:id="searchItems" style="-fx-background-color: transparent; -fx-border-radius: 20; -fx-border-color: #2A73FF;" stylesheets="@../css/dash2.css" />
+                     </children>
+                  </HBox>
+               </children>
+            </HBox>
+            <TableView fx:id="plannersTable" prefHeight="290.0" prefWidth="704.0" style="-fx-background-color: #02030A;" stylesheets="@../css/overviewTable.css">
+              <columns>
+                <TableColumn fx:id="TaskNameCol" maxWidth="176.0" minWidth="176.0" prefWidth="176.0" text="Task Name" />
+                <TableColumn fx:id="DateCol" maxWidth="176.0" minWidth="176.0" prefWidth="176.0" text="Date" />
+                  <TableColumn fx:id="StatusCol" maxWidth="176.0" minWidth="176.0" prefWidth="176.0" text="Status" />
+                  <TableColumn fx:id="deleteCol" maxWidth="176.0" minWidth="176.0" prefWidth="176.0" />
+              </columns>
+            </TableView>
+         </children>
+      </VBox>
+      <Button id="Cancel" fx:id="cancelPlanChanges" layoutX="455.0" layoutY="511.0" mnemonicParsing="false" onAction="#cancelPlanChangesAction" prefHeight="29.0" prefWidth="150.0" styleClass="CancelBTN" stylesheets="@../css/dash2.css" text="Cancel" />
+   </children>
+</Pane>
